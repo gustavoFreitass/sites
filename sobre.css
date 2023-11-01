@@ -1,10 +1,9 @@
 .left1{
-    padding: 80px 0;
     display: flex;
 }
 
 .left1 p{
-    padding: 50px 0;
+    padding: 25px 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 20px;
     font-size: large;
@@ -12,6 +11,7 @@
     margin-right: 25px;
     justify-content: center;
 }
+
 
 .left1 .imag-right{
     margin-right: 20px;
@@ -22,7 +22,7 @@
 
 .right1{
     display: flex;
-    padding: 80px 0;
+    padding: 45px 0;
 }
 
 .right1 p{
@@ -39,4 +39,19 @@
     border-radius: 15px;
     height: 375px;
     width: 600px;
+}
+
+.titulo1{
+    padding: 75px 100px;
+    text-align: left;
+    margin-left: 25px;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.titulo2{
+    text-align: right;
+    margin-right: 165px;
+    font-size: 25px;
+    text-transform: uppercase;
 }
